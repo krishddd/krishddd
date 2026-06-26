@@ -184,7 +184,7 @@ Autonomous recon → vulnerability scanning → exploit detection → LLM-assist
 
 <div align="center">
 
-**Open to research collaborations and interesting projects.**
+**Open to research collaborations, agentic AI projects, and LLM security work.**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/harish-n)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/krishddd)
