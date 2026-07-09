@@ -155,6 +155,57 @@ Autonomous recon → vulnerability scanning → exploit detection → LLM-assist
 
 ---
 
+## 📝 Latest Blog Posts
+
+<!-- BLOG-POST-LIST:START -->
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### [Teaching Your Agent to Know What It Doesn't Know](https://medium.com/@krishnahutrik.n/teaching-your-agent-to-know-what-it-doesnt-know-df32bc6dba63)
+Semantic entropy, active inference, and the case for agents that pause instead of confabulate. Why token-level entropy misses real hallucinations — and how semantic entropy probes fix it in a single forward pass.
+
+`semantic-entropy` `active-inference` `ai-safety`
+
+</td>
+<td width="50%" valign="top">
+
+### [The Agent That Knew When to Stop](https://medium.com/@krishnahutrik.n)
+Measuring and engineering deferral quality — semantic entropy tells an agent it's guessing, this is about what it should do next and how you prove it's actually doing it well.
+
+`deferral-quality` `agent-evaluation` `ai-safety`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### [Why Your AI Agent Needs a Time Machine](https://medium.com/@krishnahutrik.n)
+Rethinking reliability for agents that run for days, not seconds. Moving beyond simple logging to temporal reasoning and state recovery for long-running agent systems.
+
+`agent-reliability` `temporal-reasoning` `mlops`
+
+</td>
+<td width="50%" valign="top">
+
+### [Your Agent's Reasoning Might Be a Lie It Tells Itself](https://medium.com/@krishnahutrik.n)
+What chain-of-thought faithfulness research means for anyone building agents that have to be trusted, not just impressive. When CoT looks good but doesn't reflect actual model reasoning.
+
+`chain-of-thought` `faithfulness` `ai-trust`
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+
+[![Medium](https://img.shields.io/badge/Read_more_on_Medium-000000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@krishnahutrik.n)
+
+</div>
+<!-- BLOG-POST-LIST:END -->
+
+---
+
 ## GitHub Stats
 
 <div align="center">
@@ -187,6 +238,7 @@ Autonomous recon → vulnerability scanning → exploit detection → LLM-assist
 **Open to research collaborations, agentic AI projects, and LLM security work.**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/harish-n)
+[![Medium](https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@krishnahutrik.n)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/krishddd)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:krishnahutrik.n@gmail.com)
 
