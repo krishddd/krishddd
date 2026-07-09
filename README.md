@@ -1,12 +1,12 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1b27,100:0d1117&height=200&section=header&text=Harish%20N&fontSize=60&fontColor=58a6ff&fontAlignY=38&desc=Machine%20Learning%20Researcher%20%7C%20Agentic%20AI%20Engineer&descAlignY=58&descSize=18&descColor=8b949e" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1b27,100:0d1117&height=200&section=header&text=Harish%20Krishna&fontSize=60&fontColor=58a6ff&fontAlignY=38&desc=Machine%20Learning%20Researcher%20%7C%20Agentic%20AI%20Engineer&descAlignY=58&descSize=18&descColor=8b949e" width="100%"/>
 
 </div>
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Building+production-grade+AI+agents;OWASP+ASI+Security+%7C+LangGraph+%7C+FastAPI;Multi-agent+systems+%7C+LLM+evaluation;Open+to+collaboration+%F0%9F%A4%9D)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Building+production-grade+AI+agents+%26+guardrails;LLM+Security+%7C+Multi-Agent+Systems+%7C+LangGraph;Loop+Engineering+%7C+Token+Optimization;Open+to+collaboration+%F0%9F%A4%9D)](https://git.io/typing-svg)
 
 </div>
 
@@ -14,12 +14,12 @@
 
 ## About Me
 
-I build **agentic AI systems** that go beyond demo — production-grade pipelines with real security testing, multi-agent orchestration, LLM evaluation harnesses, and disaster-response coordination.
+I build **agentic AI systems** — security-hardened, multi-agent pipelines with real guardrails, loop-engineering runtimes, LLM evaluation, and disaster-response coordination. I also write on Medium about agent reliability, epistemic uncertainty, and AI safety.
 
-- **Focus**: Agentic AI · LLM Security · Multi-agent Systems · MLOps
-- **Stack**: Python · LangGraph · FastAPI · Docker · PostgreSQL · MLflow
-- **Research base**: CLEAR (2025) · MultiAgentBench (ACL 2025) · OWASP ASI Top-10
-- **Location**: India
+- 🔬 **Focus**: Agentic AI · LLM Security & Guardrails · Multi-Agent Systems · Token Optimization
+- 🛠️ **Stack**: Python · Rust · LangGraph · FastAPI · Docker · PostgreSQL · Qdrant
+- ✍️ **Writing**: [Medium — @krishnahutrik.n](https://medium.com/@krishnahutrik.n)
+- 📍 **Location**: India
 
 ---
 
@@ -30,17 +30,19 @@ I build **agentic AI systems** that go beyond demo — production-grade pipeline
 **Languages & Frameworks**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![LangGraph](https://img.shields.io/badge/LangGraph-FF6B35?style=for-the-badge&logo=chainlink&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
 
 **AI / ML**
 
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
 ![Anthropic](https://img.shields.io/badge/Anthropic-Claude-CC785C?style=for-the-badge)
+![Google Gemini](https://img.shields.io/badge/Google_Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white)
 ![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
 ![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white)
+![NVIDIA NIM](https://img.shields.io/badge/NVIDIA_NIM-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
 
 **Infrastructure & Storage**
 
@@ -49,11 +51,12 @@ I build **agentic AI systems** that go beyond demo — production-grade pipeline
 ![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white)
 ![Qdrant](https://img.shields.io/badge/Qdrant-DC244C?style=for-the-badge&logo=qdrant&logoColor=white)
 ![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6B35?style=for-the-badge)
+![DuckDB](https://img.shields.io/badge/DuckDB-FFF000?style=for-the-badge&logo=duckdb&logoColor=black)
 
-**DevOps & CI/CD**
+**DevOps & Tools**
 
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+![MCP](https://img.shields.io/badge/MCP-000000?style=for-the-badge&logo=chainlink&logoColor=white)
 ![Ruff](https://img.shields.io/badge/Ruff-D7FF64?style=for-the-badge&logo=ruff&logoColor=black)
 
 </div>
@@ -66,12 +69,12 @@ I build **agentic AI systems** that go beyond demo — production-grade pipeline
 <tr>
 <td width="50%" valign="top">
 
-### 🛡️ [security-module](https://github.com/krishddd/security-module)
-**OWASP ASI Top-10 Security Testing Platform**
+### 🛡️ [SEC_Guardrails_Agent](https://github.com/krishddd/SEC_Guardrails_Agent)
+**7-Layer Runtime Guardrails Gateway**
 
-Black-box security evaluation platform for agentic AI systems. Agent fingerprinting, preflight reachability checks, 27-category attack suite (prompt injection → rogue agents), HTML/JSON/SARIF reports.
+Defensive reverse proxy for LLM agents: blocks prompt injection (incl. indirect/XPIA), tool misuse, and data exfiltration on every turn. Polyglot — Python control plane + Rust security core + React HITL. Metrics split ASR vs FPR.
 
-`python` `owasp` `llm-security` `agentic-ai`
+`agent-security` `rust` `prompt-injection-defense` `xpia`
 
 </td>
 <td width="50%" valign="top">
@@ -79,7 +82,7 @@ Black-box security evaluation platform for agentic AI systems. Agent fingerprint
 ### 🌊 [floodops-multi-agent-system](https://github.com/krishddd/floodops-multi-agent-system)
 **8-Agent LangGraph Flood-Response System**
 
-Production multi-agent disaster-response platform: 8 specialized agents (sentinel, GLOF, predict, urban, alert, resource, disease, compound), 10 real-time data connectors (NOAA, USGS, ECMWF…), Anthropic/Gemini reasoning, Google Maps frontend.
+Production multi-agent disaster-response platform: 8 specialized agents (sentinel, GLOF, predict, urban, alert, resource, disease, compound), 10 real-time data connectors (NOAA, USGS, ECMWF…), Anthropic/Gemini reasoning, Google Maps + deck.gl frontend.
 
 `langgraph` `multi-agent` `fastapi` `google-maps`
 
@@ -88,22 +91,66 @@ Production multi-agent disaster-response platform: 8 specialized agents (sentine
 <tr>
 <td width="50%" valign="top">
 
-### 📊 [agent-eval-pipeline](https://github.com/krishddd/agent-eval-pipeline)
-**Universal Agent Evaluation Harness**
+### 🔁 [Strive_Engineering](https://github.com/krishddd/Strive_Engineering)
+**Loop-Engineering Runtime for Coding Agents**
 
-Framework-agnostic eval pipeline for any AI agent. 11 evaluators (task completion, tool use, trajectory, safety, RAG quality, HK-contagion…), CI/CD ThresholdGate, MLflow experiment tracking, PostgreSQL + S3 storage. Based on CLEAR (2025) & MultiAgentBench (ACL 2025).
+Design, verify, and safely run autonomous coding-agent loops (L0→L3). Tested Rust safety core + Python orchestration. Works with free NVIDIA NIM models. MCP integration for extensible tool use.
 
-`evaluation` `mlflow` `langgraph` `benchmarking`
+`loop-engineering` `rust` `nvidia-nim` `mcp` `autonomous-agents`
 
 </td>
 <td width="50%" valign="top">
 
-### 💼 [dev-module-agent](https://github.com/krishddd/dev-module-agent)
-**13-Node LangGraph Financial SQL Agent**
+### 🛡️ [security-module](https://github.com/krishddd/security-module)
+**OWASP ASI Top-10 Security Testing Platform**
 
-Natural-language → SQL → forecast → scenario pipeline. RAG over DuckDB schema embeddings, Prophet time-series forecasting, MESA agent-based simulation, Qdrant semantic cache, Gmail/Sheets delivery, LangGraph checkpointing for resume.
+Black-box security evaluation platform for agentic AI systems. Agent fingerprinting, preflight reachability checks, 27-category attack suite (prompt injection → rogue agents), HTML/JSON/SARIF reports.
 
-`langgraph` `sql-agent` `rag` `duckdb` `qdrant`
+`owasp` `llm-security` `agentic-ai` `python`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🔍 [Trajectory_Causal_Attribution](https://github.com/krishddd/Trajectory_Causal_Attribution)
+**Counterfactual Agent Failure Analysis**
+
+Record AI agent trajectories and find which step caused a failure via counterfactual step-ablation replay (P(fail|kept) - P(fail|ablated)), Point-of-Commitment, and Shapley attribution. Zero-dep Python, MIT.
+
+`causal-attribution` `agent-debugging` `shapley` `python`
+
+</td>
+<td width="50%" valign="top">
+
+### ⚡ [Reduction](https://github.com/krishddd/Reduction)
+**5-Layer Token-Optimization Pipeline**
+
+Shell filter → LLMLingua compression → semantic cache (Qdrant) → native prompt caching → Caveman+TOON output compression. Cuts token costs across any LLM agent without changing agent logic.
+
+`token-optimization` `semantic-cache` `prompt-compression` `python`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 📚 [llm-wiki](https://github.com/krishddd/llm-wiki)
+**LLM-Powered Wikipedia Knowledge Agent**
+
+MCP integration, Ollama/OpenAI support, semantic search, streaming answers with cited sources. A knowledge retrieval agent that turns Wikipedia into a queryable, grounded AI assistant.
+
+`mcp` `ollama` `semantic-search` `rag`
+
+</td>
+<td width="50%" valign="top">
+
+### 🤿 [social_dive](https://github.com/krishddd/social_dive)
+**Agentic Internet-Access Layer**
+
+Read and search 16+ internet sources (arXiv, GitHub, YouTube, etc.) with high-speed Rust HTML parsing and LLM summarization via NVIDIA NIM. Gives agents real-time web awareness.
+
+`rust` `nvidia-nim` `search` `ai-agents`
 
 </td>
 </tr>
@@ -115,43 +162,27 @@ Natural-language → SQL → forecast → scenario pipeline. RAG over DuckDB sch
 
 Repeatable engagement framework for LLM security. Prompt injection, jailbreak, semantic exploit, payload mutation attack modules. SQLite engagement store, resumable runs, HTML posture dashboard + per-finding Markdown reports.
 
-`security` `prompt-injection` `jailbreak` `python`
+`penetration-testing` `prompt-injection` `jailbreak` `python`
 
 </td>
 <td width="50%" valign="top">
 
-### ⚡ [Reduction](https://github.com/krishddd/Reduction)
-**5-Layer Token-Optimization Pipeline**
+### 💼 [dev-module-agent](https://github.com/krishddd/dev-module-agent)
+**13-Node LangGraph Financial SQL Agent**
 
-Shell filter → LLMLingua compression → semantic cache (Qdrant) → native prompt caching → Caveman+TOON output compression. Cuts token costs across any LLM agent without changing agent logic.
+Natural-language → SQL → forecast → scenario pipeline. RAG over DuckDB schema embeddings, Prophet time-series forecasting, MESA agent-based simulation, Qdrant semantic cache, Gmail/Sheets delivery.
 
-`token-optimization` `llm` `semantic-cache` `python`
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 🧠 [neuro-agent](https://github.com/krishddd/neuro-agent)
-**Neural Reasoning Agent**
-
-ChromaDB-backed knowledge retrieval, adaptive multi-hop memory, LangGraph orchestration with ruff-clean CI. Designed for long-horizon reasoning tasks with persistent knowledge graphs.
-
-`langgraph` `chromadb` `rag` `python`
-
-</td>
-<td width="50%" valign="top">
-
-### 🌐 [network-pipeline](https://github.com/krishddd/network-pipeline)
-**AI-Powered Network Security Pipeline**
-
-Autonomous recon → vulnerability scanning → exploit detection → LLM-assisted triage. Full GitHub Actions CI with ruff lint, mypy, pytest.
-
-`network-security` `vulnerability-scanning` `ai-security`
+`langgraph` `sql-agent` `rag` `duckdb` `qdrant`
 
 </td>
 </tr>
 </table>
+
+<div align="center">
+
+*Plus [50+ more repositories](https://github.com/krishddd?tab=repositories) spanning active inference, agentic testing, data science, and ML.*
+
+</div>
 
 ---
 
@@ -160,38 +191,12 @@ Autonomous recon → vulnerability scanning → exploit detection → LLM-assist
 <!-- BLOG-POST-LIST:START -->
 <table>
 <tr>
-<td width="50%" valign="top">
+<td width="100%" valign="top">
 
 ### [Teaching Your Agent to Know What It Doesn't Know](https://medium.com/@krishnahutrik.n/teaching-your-agent-to-know-what-it-doesnt-know-df32bc6dba63)
 Semantic entropy, active inference, and the case for agents that pause instead of confabulate. Why token-level entropy misses real hallucinations — and how semantic entropy probes fix it in a single forward pass.
 
 `semantic-entropy` `active-inference` `ai-safety`
-
-</td>
-<td width="50%" valign="top">
-
-### [The Agent That Knew When to Stop](https://medium.com/@krishnahutrik.n)
-Measuring and engineering deferral quality — semantic entropy tells an agent it's guessing, this is about what it should do next and how you prove it's actually doing it well.
-
-`deferral-quality` `agent-evaluation` `ai-safety`
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### [Why Your AI Agent Needs a Time Machine](https://medium.com/@krishnahutrik.n)
-Rethinking reliability for agents that run for days, not seconds. Moving beyond simple logging to temporal reasoning and state recovery for long-running agent systems.
-
-`agent-reliability` `temporal-reasoning` `mlops`
-
-</td>
-<td width="50%" valign="top">
-
-### [Your Agent's Reasoning Might Be a Lie It Tells Itself](https://medium.com/@krishnahutrik.n)
-What chain-of-thought faithfulness research means for anyone building agents that have to be trusted, not just impressive. When CoT looks good but doesn't reflect actual model reasoning.
-
-`chain-of-thought` `faithfulness` `ai-trust`
 
 </td>
 </tr>
@@ -237,7 +242,7 @@ What chain-of-thought faithfulness research means for anyone building agents tha
 
 **Open to research collaborations, agentic AI projects, and LLM security work.**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/harish-n)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harish-krishna-989493259/)
 [![Medium](https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@krishnahutrik.n)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/krishddd)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:krishnahutrik.n@gmail.com)
